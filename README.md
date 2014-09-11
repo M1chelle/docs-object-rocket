@@ -1,4 +1,4 @@
 docs-object-rocket
 ==================
 
-pointer (in README) to the real location of ObjectRocket doc
+ObjectRocket's documentation source is in https://github.com/objectrocket/documentation.
